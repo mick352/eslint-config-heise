@@ -1,5 +1,7 @@
 # @heise/eslint-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/heiseonline/eslint-config-heise.svg)](https://greenkeeper.io/)
+
 Die eslint-Konfiguration von Heise.
 
 ```sh
